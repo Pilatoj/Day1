@@ -1,7 +1,7 @@
 # Day1
 day 1 assignment
 
-1.Explain what software engineering is and discuss its importance in the technology industry
+**1*.Explain what software engineering is and discuss its importance in the technology industry**
 software engineering is a branch of computer science used for developing, testing and maintaining software.
 reliability- it ensures software performs as expected without bias especially for critical applications like healthcare ,finance. 
 efficiency - it helps to optimize developer workflow while maintaining high quality standards.
@@ -10,7 +10,7 @@ efficiency - it helps to optimize developer workflow while maintaining high qual
 
 
 2.Identify and describe at least three key milestones in the evolution of software engineering.  
-.mastering complexity
+mastering complexity
 Mastering process
 Mastering machine
 
